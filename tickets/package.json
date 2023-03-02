@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@ticketssa/common": "^1.0.3",
+    "@ticketssa/common": "^1.0.5",
     "@types/cookie-session": "^2.0.44",
     "@types/express": "^4.17.15",
     "@types/jest": "^29.2.5",
