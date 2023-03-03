@@ -13,5 +13,5 @@ const start = async() => {
 }
 
 
-app.listen(3000,()=> console.log("SERVER ON 3000!!!!!!!!!"));
+app.listen(3000,()=> console.log("SERVER ON 3000[auth server]"));
 start();
